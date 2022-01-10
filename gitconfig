@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = desiree.petrilli@gmail.com
+	name = Desiree Petrilli
